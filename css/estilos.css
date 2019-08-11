@@ -1,0 +1,50 @@
+/* Establecemos las imagenes del slider con un 100% de ancho y un alto máximo de 600 píxeles */ 
+.imagenSlider {
+    width: 100%;
+    max-height: 600px;
+
+}
+
+/* Sección Sobre Mí */
+
+/* Margen superior e inferior de 50 píxeles */
+#seccionSobreMi {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#seccionMiTrabajo {
+    background: red;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.centrado {
+    text-align: center
+}
+
+.blanco {
+    color: black;
+}
+
+.trabajos {
+    margin-top: 10px;
+}
+
+#seccionPieDePagina {
+    background: #292929;
+    color: black;
+    padding: 25px;
+}
+
+.derecha {
+    text-align: right
+}
+.imagenexperiencia{
+    width: 100px;
+    height: 100px;
+}
+.maggie{
+    width: 150px;
+    height: 150px;
+}
